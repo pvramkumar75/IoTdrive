@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+google-api-python-client
+google-auth
+google-auth-oauthlib
+plotly
+python-docx
+kaleido
